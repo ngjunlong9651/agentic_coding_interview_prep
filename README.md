@@ -29,7 +29,7 @@ Open the notebook and select the **Python (agentic-interview)** kernel.
 ## Topics
 The 2 hour timeline and prompting loop, CLAUDE.md template, the agent loop and its four rules, manual loop vs tool runner vs frameworks,
 tool design, errors as data, budgets, human approval, prompt injection, unit and scripted-loop tests, eval harness with validated graders,
-pass rate and cost metrics, LLM as judge, cost and latency levers, security, observability, the 5 minute walkthrough, a question bank,
+pass rate and cost metrics, LLM as judge, lessons from MIT Missing Semester "Agentic Coding" (feedback loops, context management and compaction, skills and subagents, parallel agents, yolo mode in a container), cost and latency levers, security, observability, the 5 minute walkthrough, a question bank,
 and four mock drill briefs with a scoring rubric.
 
 ## Series
